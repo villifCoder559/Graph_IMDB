@@ -6,4 +6,4 @@ From a dataset of movies extract all data, create a graph using Networkx, and re
 4.  Build also the actor graph, whose nodes are only actors and two actors are connected if they did a movie together, which is the pair of actors who collaborated the most among themselves?
 
 ## Results
-For implementation details and results check the presentation of this project (<a href="https://github.com/villifCoder559/Graph_IMDB/blob/main/presentation.pdf">Presentation.pdf</a>)
+For implementation details and results check the presentation of this project (<a href="https://github.com/villifCoder559/Graph_IMDB/raw/main/presentation.pdf">Presentation.pdf</a>)
