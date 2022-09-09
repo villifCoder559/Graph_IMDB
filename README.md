@@ -5,5 +5,5 @@ From a dataset of movies extract all data, create a graph using Networkx, and re
 3.  Which is the movie with the largest number of popular actors, i.e. such that the sum of the number of movies its actors participated in is maximum?
 4.  Build also the actor graph, whose nodes are only actors and two actors are connected if they did a movie together, which is the pair of actors who collaborated the most among themselves?
 
-##Results
-For the results and implementation details check the presentation of this project (https://github.com/villifCoder559/Graph_IMDB/blob/main/presentation.pdf)
+## Results
+For implementation details and results check the presentation of this project (https://github.com/villifCoder559/Graph_IMDB/blob/main/presentation.pdf)
